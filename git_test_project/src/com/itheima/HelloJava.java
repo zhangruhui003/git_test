@@ -11,5 +11,9 @@ public class HelloJava {
 
         int d=99;
         int w=99;
+        System.out.println(00000000000);
+        System.out.println(00000000000);
+        System.out.println(00000000000);
+        System.out.println(00000000000);
     }
 }
