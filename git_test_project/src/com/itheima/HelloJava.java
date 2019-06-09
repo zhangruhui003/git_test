@@ -7,5 +7,9 @@ public class HelloJava {
         System.out.println(1111111111);
         System.out.println(1111111111);
         System.out.println(1111111111);
+
+
+        int d=99;
+        int w=99;
     }
 }
